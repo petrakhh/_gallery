@@ -8,7 +8,7 @@ license_url: "https://en.wikipedia.org/wiki/Amazon_Fire#/media/File:Kindle_Fire_
 license_text: Wikipedia 
 categories:
   - Τάμπλετ
-  - Φορητή συσκευή 
+  - Φορητή συσκευή
   - Οθόνη αφής
 tags:
   - Kindle
