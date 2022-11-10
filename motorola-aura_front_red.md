@@ -7,7 +7,8 @@ caption: 'Το πρώτο κινητό με στρογγυλή οθόνη'
 license_url: https://www.techpress.gr/wp-content/uploads/2008/10/motorola-aura_front_red.jpg
 license_text: Techpress.gr
 categories:
-  - 
+  - Κινητό
 tags:
-  -
+  - Motorola 
+  - Phone
 ---
